@@ -18,6 +18,6 @@ class Ideone
 		    	System.out.println("yes");
 		    }
 		    else
-		          System.out.println(" no");
+		          System.out.println("no");
 	}
 }
