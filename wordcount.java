@@ -12,7 +12,7 @@ class Ideone
 		int i,a,count=0;
 		String str1;
 		Scanner s=new Scanner(System.in);
-		str=s.nextLine();
+		str1=s.nextLine();
 	            for(i=0;i<str1.length();i++)
 	            {
 	            	if(str1.charAt(i)==' ')
