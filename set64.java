@@ -15,7 +15,7 @@ class Ideone
 	  int l = k*j;
 	  if ( l%2 == 0 )
 	  {
-	  	System.out.println("Even");
+	  	System.out.println("even");
 	  }
 	  else
 	  {
